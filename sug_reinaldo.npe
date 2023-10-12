@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportProfile Ver="1.1">
+  <General ConnectionName="CICLOPE_GRT" DatabaseName="datos_temporales" SchemaName="" ExportType="Excel" TargetCodepage="65001" AddTimeStamp="false" TimeStampFormat="" IncludeTitle="true" FieldDelimiter="	" DateFormat="MDY" DateSeparator="/" TimeSeparator=":" DecimalSeparator="." TextQualifier="" RowDelimiter="0" XMLFormat="Element" AppendRecord="false" ContinueOnError="true"/>
+  <STable STableName="sug_final_jpg" TTableName="" TargetFile="C:\Documents and Settings\jpenaloza\Escritorio\Reinaldo\sug_final_jpg.xls" AllFields="true"/>
+</ExportProfile>
